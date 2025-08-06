@@ -1,0 +1,23 @@
+# ===========================================
+# SETUP INSTRUCTIONS
+# ===========================================
+
+# 1. Install Python 3.9+ (if not already installed)
+#    - Download from: https://www.python.org/downloads/
+#    - Or on macOS:   brew install python@3.9
+#    - Or on Ubuntu:  sudo apt install python3.9 python3.9-venv python3.9-dev
+
+# 2. Install Azure CLI (optional but recommended for device management)
+#    - macOS:   brew install azure-cli
+#    - Ubuntu:  curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+#    - Docs:    https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+
+# 3. Install project Python dependencies using:
+#    pip install -r requirements.txt
+
+# ===========================================
+# PYTHON DEPENDENCIES
+# ===========================================
+
+azure-iot-device==2.11.0
+requests
