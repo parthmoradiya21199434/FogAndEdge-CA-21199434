@@ -2,7 +2,7 @@ import random
 import time
 from azure.iot.device import IoTHubDeviceClient, Message
 
-# Replace with your actual device connection string from Azure
+# Replace with the actual device connection string from Azure
 CONNECTION_STRING = "HostName=iothubparthmoradiya.azure-devices.net;DeviceId=my-device-id-21199434;SharedAccessKey=blDryY62FTFDN9TBE8KO4wnxs+QyycPegqFjjVHHSCM="
 
 # Message template
