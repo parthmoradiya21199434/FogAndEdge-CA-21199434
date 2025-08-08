@@ -7,7 +7,7 @@ This project is based on the research paper:
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates an IoT-based environmental monitoring system using **Edge and Cloud computing**.
 
@@ -23,7 +23,7 @@ The architecture follows a layered approach:
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - Python 3.9  
 - Azure IoT Hub (via Student Account)
@@ -33,7 +33,7 @@ The architecture follows a layered approach:
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install all dependencies using:
 
